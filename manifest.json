@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "freegpt lol",
+  "version": "2.0.0",
+  "description": "since openai vibecoded this platform so bad, this extension completely removes all content and replaces it with usable UI and setting. you can use the v5 model for free and without account on the offical platform",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://chatgpt.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://chatgpt.com/*",
+        "*://*.chatgpt.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["injector.js"],
+      "matches": ["*://chatgpt.com/*", "*://*.chatgpt.com/*"]
+    }
+  ]
+}
