@@ -1,5 +1,7 @@
 # freegpt
 
+![UI Screenshot](ui.png)
+
 This extension injects into the translation page of ChatGPT, replacing it with a fully functional chat UI. You can choose the model, system prompt, and developer prompt in the settings.
 
 ## how it works
