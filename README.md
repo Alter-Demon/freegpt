@@ -3,7 +3,7 @@
 ![UI Screenshot](ui.png)
 
 This extension injects into the translation page of ChatGPT, replacing it with a fully functional chat UI. You can choose the model, system prompt, and developer prompt in the settings.
-
+## Update 01.02.2025 - THEY FIXED IT!!
 ## how it works
 
 The extension intercepts all `/conversation` requests at the network level, replacing the model, system prompt, and developer prompt values with your current settings before they reach OpenAI's servers.
